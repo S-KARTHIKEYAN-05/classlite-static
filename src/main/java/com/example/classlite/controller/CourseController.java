@@ -1,4 +1,4 @@
-package com.example.classlite.Controller;
+package com.example.classlite.controller;
 
 import com.example.classlite.model.Course;
 import org.springframework.web.bind.annotation.GetMapping;
